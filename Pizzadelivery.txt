@@ -1,0 +1,12 @@
+How to order a pizza:
+
+1. Pick a pizza delivery place
+2. Open pizza application
+3. Decided on type of pizza
+4. Review order
+5. Chose Method of payment
+    a. Pay in cash
+6. Order pizza
+7. Wait
+8. Pay delivery driver and tip
+9. Enjoy!
